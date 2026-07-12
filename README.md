@@ -8,6 +8,7 @@ Tools & Software:
 https://drive.google.com/drive/folders/1RkCpjLNDu5Cqqk7cVUBwuOFaeoNG8fvg?usp=sharing
 
 
+Tutorial: https://www.codewithc.com/how-to-setup-opengl-glut-in-codeblocks/?amp=1
 
 Steps to Setup OpenGL (GLUT) in CodeBlocks:
 Step – 1
